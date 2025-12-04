@@ -10,7 +10,8 @@ I specialize in building scalable systems using **Kafka, FastAPI, and Docker**, 
 
 ### 🎯 Current Status
 * 🔭 I’m currently working on **DisasterLens**, a real-time disaster management platform using Kafka and OpenAI.
-* 📫 How to reach me: **rachelfong.tw@gmail.com** [**LinkedIn**](https://www.linkedin.com/in/rachel-fong-tong-wen-4b0329301/)
+* 📫 How to reach me: [1] **rachelfong.tw@gmail.com**
+  [2] [**LinkedIn**](https://www.linkedin.com/in/rachel-fong-tong-wen-4b0329301/)
 
 ---
 
@@ -44,15 +45,15 @@ I specialize in building scalable systems using **Kafka, FastAPI, and Docker**, 
 
 **🌪️ DisasterLens (Final Year Project)**
 * **Tech:** FastAPI, Kafka, Docker, OpenAI, Elasticsearch
-* **About:** Architected a real-time platform ingesting 10k+ data points/hour to track disaster events. Integrated OpenAI for sentiment analysis with 90% accuracy [4].
+* **About:** Architected a real-time platform ingesting 10k+ data points/hour to track disaster events. Integrated OpenAI for sentiment analysis with 90% accuracy.
 
 **♻️ Recycognize**
 * **Tech:** React Native, AWS, Roboflow
-* **About:** Engineered a Smart RVM ecosystem using computer vision to identify and sort packaging types with high precision [7].
+* **About:** Engineered a Smart RVM ecosystem using computer vision to identify and sort packaging types with high precision.
 
 **📉 DropEase**
 * **Tech:** MERN Stack (MongoDB, Express, React, Node)
-* **About:** Full-stack dropshipping management platform automating logistics for Malaysian entrepreneurs [8].
+* **About:** Full-stack dropshipping management platform automating logistics for Malaysian entrepreneurs.
 
 ---
 
@@ -61,4 +62,3 @@ I specialize in building scalable systems using **Kafka, FastAPI, and Docker**, 
 * **German** (A2)
 * **Chinese, Malay, Cantonese**
 
-![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelfong0320&show_icons=true&theme=radical)
