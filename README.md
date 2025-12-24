@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineer | Distributed Systems & AI Enthusiast
 
-I am a final-year Computer Science student at the **University of Malaya** (CGPA 3.81) [1], recently returned from a long-term exchange at **Technische Universität München (TUM)** where I achieved a 1.0 GPA (Highest Distinction).
+I am a final-year Computer Science student at the **University of Malaya** (CGPA 3.81), recently returned from a long-term exchange at **Technische Universität München (TUM)** where I achieved a 1.0 GPA (Highest Distinction).
 
 I specialize in building scalable systems using **Kafka, FastAPI, and Docker**, and I love integrating AI into real-world applications. Previously, I worked as a Frontend Developer Intern in Munich.
 
@@ -11,7 +11,7 @@ I specialize in building scalable systems using **Kafka, FastAPI, and Docker**, 
 ### 🎯 Current Status
 * 🔭 I’m currently working on **DisasterLens**, a real-time disaster management platform using Kafka and OpenAI.
 * 📫 How to reach me: [1] **rachelfong.tw@gmail.com**
-  [2] [**LinkedIn**](https://www.linkedin.com/in/rachel-fong-tong-wen-4b0329301/)
+   [**LinkedIn**](https://www.linkedin.com/in/rachel-fong-tong-wen-4b0329301/)
 
 ---
 
