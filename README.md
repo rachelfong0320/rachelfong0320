@@ -62,3 +62,7 @@ I specialize in building scalable systems using **Kafka, FastAPI, and Docker**, 
 * **German** (A2)
 * **Chinese, Malay, Cantonese**
 
+
+![Rachelfong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelfong&show_icons=true&theme=radical)
+
+
